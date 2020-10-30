@@ -1,0 +1,11 @@
+D:\Bellvantage\Projects\Scanning Center System & EDOMAS -Life\DataExportApp\DataExportApp\bin\Debug\DataExportApp.exe.config
+D:\Bellvantage\Projects\Scanning Center System & EDOMAS -Life\DataExportApp\DataExportApp\bin\Debug\DataExportApp.exe
+D:\Bellvantage\Projects\Scanning Center System & EDOMAS -Life\DataExportApp\DataExportApp\bin\Debug\DataExportApp.pdb
+D:\Bellvantage\Projects\Scanning Center System & EDOMAS -Life\DataExportApp\DataExportApp\obj\Debug\DataExportApp.csprojResolveAssemblyReference.cache
+D:\Bellvantage\Projects\Scanning Center System & EDOMAS -Life\DataExportApp\DataExportApp\obj\Debug\DataExportApp.Home.resources
+D:\Bellvantage\Projects\Scanning Center System & EDOMAS -Life\DataExportApp\DataExportApp\obj\Debug\DataExportApp.Properties.Resources.resources
+D:\Bellvantage\Projects\Scanning Center System & EDOMAS -Life\DataExportApp\DataExportApp\obj\Debug\DataExportApp.csproj.GenerateResource.Cache
+D:\Bellvantage\Projects\Scanning Center System & EDOMAS -Life\DataExportApp\DataExportApp\obj\Debug\DataExportApp.csproj.CoreCompileInputs.cache
+D:\Bellvantage\Projects\Scanning Center System & EDOMAS -Life\DataExportApp\DataExportApp\obj\Debug\DataExportApp.exe
+D:\Bellvantage\Projects\Scanning Center System & EDOMAS -Life\DataExportApp\DataExportApp\obj\Debug\DataExportApp.pdb
+D:\Bellvantage\Projects\Scanning Center System & EDOMAS -Life\DataExportApp\DataExportApp\bin\Debug\Oracle.DataAccess.dll
